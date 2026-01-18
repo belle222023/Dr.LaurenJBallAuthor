@@ -59,6 +59,7 @@ html, body {
   color: #fff;
   margin: 0;
   letter-spacing: 0.5px;
+  margin-left: -5rem;
 }
 
 /* Nav */
@@ -253,4 +254,5 @@ footer p {
     max-width: 280px;
   }
 }
+
 
